@@ -1,0 +1,161 @@
+[{
+    "question": "A general journal contains?",
+    "choice1": "date, narration, folio, debit and purchases",
+    "choice2": "data, narration, folio, debit and purchase",
+    "choice3": "folio, credit, date, debit and sales",
+    "choice4": "debit, credit,narration, data and discount",
+    "answer": 1
+  },
+  {
+    "question": "In a manufacturing company, the total cost of goods produced is equivalent to?",
+    "choice1": "purchases",
+    "choice2": "sales",
+    "choice3": " cost of goods sold",
+    "choice4": "cost of materials used",
+    "answer": 1
+  },
+  {
+    "question": "The simplest form of single entry procedure consists of keeping a?",
+    "choice1": "day book or general journal",
+    "choice2": "cash book and ledger accounts showing debtors and creditors balances ",
+    "choice3": "cash journal, sales journal and purchases journal",
+    "choice4": "day book in which transactions are described in chronological order",
+    "answer": 2
+  },
+  {
+    "question": "A fixed cost is fixed only in relation to?",
+    "choice1": "the quality of goods produced",
+    "choice2": "the quantity of goods sold",
+    "choice3": "a given period of time and a range of activities",
+    "choice4": "a given period of time and the nature of activity",
+    "answer": 4
+  },
+  {
+    "question": " One of the advantages of the shortcomings of single entry procedures is that...",
+    "choice1": "a trial balance is not available",
+    "choice2": "profits are overestimated",
+    "choice3": " there are no subsidiary books",
+    "choice4": "there are no control accounts",
+    "answer": 1
+  },
+  {
+    "question": "When a customer's cheque is returned unpaid in a debtor's control accounting system, the treatment will be?",
+    "choice1": "debit bank, credit custmer and credit conyrol account",
+    "choice2": "credit bank, debit customer, and credit control account",
+    "choice3": "debit customer, debit control accountand credit bank",
+    "choice4": "credit control account, debit bank and debit customer",
+    "answer": 2
+  },
+  {
+    "question": "Which of the following items does not feature in the balance sheet of a club??",
+    "choice1": "Arrears of current year's subscription",
+    "choice2": " Salary arrears paid in the current year",
+    "choice3": "Rental income received in advance",
+    "choice4": "Advances subscription in respect of a coming year",
+    "answer": 2
+  },
+  {
+    "question": " An outright sale of a partnership amounts to the?",
+    "choice1": "compensation of vendors by the purchase",
+    "choice2": " admission of a new partner",
+    "choice3": "purchase of rights of a dead partner",
+    "choice4": "change of sharing ratio of vendors",
+    "answer": 4
+  }, 
+  {
+    "question": " The Partnership Deed normally specifies",
+    "choice1": "how profit or losses are to be shared",
+    "choice2": "the capital to be contributed annually",
+    "choice3": " how salaries are paid to employees",
+    "choice4": "the profit that should be earned annually",
+    "answer": 1
+  },
+  {
+    "question": "The accumulation fund of a non-trading concern can equally be referred to as",
+    "choice1": "members' equity",
+    "choice2": "share capital",
+    "choice3": "general fund",
+    "choice4": "surplus fund",
+    "answer": 1
+  },
+  {
+    "question": "When a purchase business is revalued, the effect is that",
+    "choice1": "a decrease in the value of asset has no effect on value of goodwill",
+    "choice2": "an increase in the value of asset is treated as an increase in the value of goodwill",
+    "choice3": " a decrease in the value of asset is treated as an decrease in the value of goodwil",
+    "choice4": "an increase in the value of asset is treated as an decrease in the value of goodwill",
+    "answer": 4
+  },
+  {
+    "question": "An item of appropriation in partnership profit and loss account is",
+    "choice1": "interest on partners' capital",
+    "choice2": "interest on partners' loan",
+    "choice3": "employees' salaries",
+    "choice4": "partners' drawings",
+    "answer": 1
+  },
+  {
+    "question": " A business is required at par when the",
+    "choice1": "purchase consideration equals goodwill",
+    "choice2": "purchase consideration equals net value",
+    "choice3": "purchase consideration is greater than the net value",
+    "choice4": "net assets is greater than the liabilitties",
+    "answer": 2
+  },
+  {
+    "question": "The most appropriate basis for apportioning inventory holding cost among departments is to use the value of",
+    "choice1": "purchases",
+    "choice2": "opening stock",
+    "choice3": " closing stock",
+    "choice4": "average stock",
+    "answer": 2
+  },
+  {
+    "question": " The body constitutionally charged with the responsibility of examining the audited accounts of the Federation and other reports as referred by the National Assembly is the",
+    "choice1": "Public Accounts Committee",
+    "choice2": "Public Audit Committee",
+    "choice3": " Internal Audit Committee",
+    "choice4": "External Audit Committee",
+    "answer": 1
+  },
+  {
+    "question": " The channel through which all government borrowing and domestic lending transactions pass is called",
+    "choice1": "special trust fund",
+    "choice2": "agency fund",
+    "choice3": " national loan fund",
+    "choice4": "contingency fund",
+    "answer": 4
+  },
+  {
+    "question": "Recurrent expenditure are expenses for the period not exceeding",
+    "choice1": "10 years",
+    "choice2": "5 years",
+    "choice3": " 2 years",
+    "choice4": "1 year",
+    "answer": 4
+  },
+  {
+    "question": "The current growth in the volume of trading and financial dealings in Nigeria is helped by",
+    "choice1": "increased financial activities",
+    "choice2": "government intervention",
+    "choice3": " credit as a factor in business",
+    "choice4": " payment for goods in cash",
+    "answer": 1
+  },
+  {
+    "question": " Cost accounting entails the provision of information",
+    "choice1": "for investment purposes",
+    "choice2": "for descision making",
+    "choice3": " to shareholders",
+    "choice4": "to stockholders",
+    "answer": 2
+  },
+  {
+    "question": " The main objective of accounting report is to provide information about",
+    "choice1": "a company's shareholding",
+    "choice2": "an entity's management",
+    "choice3": "  the efficacy of assets",
+    "choice4": " a company's economic resources",
+    "answer": 4
+  }
+]

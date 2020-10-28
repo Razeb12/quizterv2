@@ -1,0 +1,161 @@
+[{
+    "question": "A periodic maintenance activity carried out using a farm tractor is?",
+    "choice1": "Checking of radiator water",
+    "choice2": "Checking of lyre pressure",
+    "choice3": "Changing of engine oil",
+    "choice4": "Cleaning after use",
+    "answer": 3
+  },
+{
+    "question": "Which of the following equipment is a farm implement?",
+    "choice1": "Dryer",
+    "choice2": "Sheller",
+    "choice3": "Mower",
+    "choice4": "Mistblower",
+    "answer": 3
+  },
+{
+    "question": "Which of the following sources of farm power is most verstile in West Africa?",
+    "choice1": "Biogas",
+    "choice2": "Animal",
+    "choice3": "Wind",
+    "choice4": "Water",
+    "answer": 2
+  },
+{
+    "question": "Farm mechanization does not?",
+    "choice1": "involve the use of motorized equipment",
+    "choice2": "Require much capital",
+    "choice3": "Promote employment",
+    "choice4": "Involve the use of heavy machinery",
+    "answer": 3
+  },
+{
+    "question": "Farm surveying equipment include the following except?",
+    "choice1": " Abney level",
+    "choice2": "Compass",
+    "choice3": "Gunter's chain",
+    "choice4": "Spade",
+    "answer": 4
+  },
+{
+    "question": "The sustem in which a farmer uses a piece of land for a period and abandons it for another land is called?",
+    "choice1": "Crop rotation",
+    "choice2": "Mix cropping",
+    "choice3": "Shifting cultivation",
+    "choice4": "Ley farming",
+    "answer": 3
+  },
+{
+    "question": "A socio-cultural factor affecting land availability for agriculture include use of land for?",
+    "choice1": "Constructin road",
+    "choice2": "Building houses",
+    "choice3": "Building factormies",
+    "choice4": " Building religious houses",
+    "answer": 4
+  },
+{
+    "question": "Organisms which may be benefical to crop include?",
+    "choice1": "Nematodes",
+    "choice2": " Bacteria",
+    "choice3": "Viruses",
+    "choice4": "Protozoa",
+    "answer": 2
+  },
+{
+    "question": "Which of the following rocks is sedimantary?",
+    "choice1": "Limestone",
+    "choice2": "Gabbro",
+    "choice3": "Gabbro",
+    "choice4": "Marble",
+    "answer": 1
+  },
+{
+    "question": "Soil profile important in agriculture because it?",
+    "choice1": "Determines the soil catena",
+    "choice2": "Determines the type of the landtenure system",
+    "choice3": "Gives indication of types of cropsto grow",
+    "choice4": "Promotes the weathering of rocks",
+    "answer": 3
+  },
+{
+    "question": "A soil sample with a pH of 4.5 is said to be?",
+    "choice1": "Acidic",
+    "choice2": "Alkaline",
+    "choice3": "Neutral",
+    "choice4": "Fertile",
+    "answer": 1
+  },
+{
+    "question": "The property of the soil which cannot easily be changed by a farmer is the?",
+    "choice1": " Porosity",
+    "choice2": "Structure",
+    "choice3": "Texture",
+    "choice4": "Acidity",
+    "answer": 3
+  },
+{
+    "question": "A farmer continuously applies sulphate of ammonia to his farmland for many years, the resultant soil solution is most likely to?",
+    "choice1": "Leave blue litmus paper unchanged",
+    "choice2": "Change blue litmus paper to red",
+    "choice3": "Change red litmus paper to blue",
+    "choice4": "Be rich in soil microbes",
+    "answer": 2
+  },
+{
+    "question": "Application of water to the subsoil through perforated pipes is known as?",
+    "choice1": "Flooding irrigation",
+    "choice2": "Subsurface irrigation",
+    "choice3": "Spinkler irrigation",
+    "choice4": " Overhead irrigation",
+    "answer": 4
+  },
+{
+    "question": "Tabacco belongs to the group of crops called?",
+    "choice1": "Fibres",
+    "choice2": "Beverages",
+    "choice3": "Stimulants",
+    "choice4": " Cereals",
+    "answer": 3
+  },
+{
+    "question": "Maize is a popular crop in West Africa because it?",
+    "choice1": "is a cereal",
+    "choice2": "Has multiple uses",
+    "choice3": "Is of high nutritional value",
+    "choice4": " Was introduced from Wurope",
+    "answer": 2
+  },
+{
+    "question": "The following crops require shade trees at the seeding statge except?",
+    "choice1": "Theobroma cacao",
+    "choice2": "Theobroma cacao",
+    "choice3": "Elaeis guineensis",
+    "choice4": "Oryza sativa",
+    "answer": 4
+  },
+{
+    "question": "Crop which are primarily grown to provide food for farm animals are?",
+    "choice1": "Legumes",
+    "choice2": "Weeds",
+    "choice3": "Forages",
+    "choice4": "Grasses",
+    "answer": 3
+  },
+{
+    "question": "A fungus known as phytophthora palmivora is responsible for?",
+    "choice1": "Panama disease of banana",
+    "choice2": "Blackarm diease of kola",
+    "choice3": "Black pod disease of cocoa",
+    "choice4": " Blossom-end rot disease of tomato",
+    "answer": 3
+  },
+{
+    "question": "Piercing and sucking insect pests possess?",
+    "choice1": "Maxillae",
+    "choice2": " Mandibles",
+    "choice3": "Labrums",
+    "choice4": "Probosces",
+    "answer": 4
+  }
+]
